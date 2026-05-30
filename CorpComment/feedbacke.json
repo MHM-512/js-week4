@@ -1,0 +1,77 @@
+{
+    "public": true,
+    "sorted": true,
+    "feedbacks": [
+      {
+        "company": "ByteGrad",
+        "badgeLetter": "B",
+        "upvoteCount": 593,
+        "daysAgo": 1,
+        "text": "The courses are amazing! I learned so much about JavaScript in just a week."
+      },
+      {
+        "company": "Starbucks",
+        "badgeLetter": "S",
+        "upvoteCount": 563,
+        "daysAgo": 3,
+        "text": "I love the new mobile ordering system, it saves me so much time every morning."
+      },
+      {
+        "company": "Netflix",
+        "badgeLetter": "N",
+        "upvoteCount": 486,
+        "daysAgo": 5,
+        "text": "The latest documentary series is incredible. The production quality is top notch."
+      },
+      {
+        "company": "McDonald's",
+        "badgeLetter": "M",
+        "upvoteCount": 377,
+        "daysAgo": 6,
+        "text": "The service at the downtown branch was super fast and the staff were friendly."
+      },
+      {
+        "company": "Amazon",
+        "badgeLetter": "A",
+        "upvoteCount": 156,
+        "daysAgo": 7,
+        "text": "Prime delivery is a game changer. I received my package in less than 24 hours!"
+      },
+      {
+        "company": "Microsoft",
+        "badgeLetter": "M",
+        "upvoteCount": 41,
+        "daysAgo": 9,
+        "text": "Microsoft Teams has improved our remote work efficiency significantly. Great tool."
+      },
+      {
+        "company": "Tesla",
+        "badgeLetter": "T",
+        "upvoteCount": 230,
+        "daysAgo": 12,
+        "text": "The latest software update for the Model 3 added some really cool new features."
+      },
+      {
+        "company": "Spotify",
+        "badgeLetter": "S",
+        "upvoteCount": 189,
+        "daysAgo": 30,
+        "text": "The personalized playlists always know exactly what I want to hear today."
+      },
+      {
+        "company": "Google",
+        "badgeLetter": "G",
+        "upvoteCount": 312,
+        "daysAgo": 35,
+        "text": "The new search AI summaries are very helpful for finding quick answers."
+      },
+      {
+        "company": "Apple",
+        "badgeLetter": "A",
+        "upvoteCount": 420,
+        "daysAgo": 2,
+        "text": "The build quality of the new MacBook Pro is unmatched. It's a powerhouse for dev work."
+      }
+    ]
+  }
+  
